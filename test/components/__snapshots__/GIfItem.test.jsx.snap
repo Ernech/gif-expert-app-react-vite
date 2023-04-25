@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test at <GIfItem/> should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dog What GIF by Best Friends Animal Society"
+      src="https://media4.giphy.com/media/2C2qwckZzyiz8UzvzK/giphy.gif?cid=f39c7d815ksqw6wil18rddwi1i867qgfzub5mxcqvysglrb7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Dog What GIF by Best Friends Animal Society
+    </p>
+  </div>
+</div>
+`;
